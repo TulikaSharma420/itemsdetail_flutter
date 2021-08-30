@@ -1,0 +1,1 @@
+# itemsdetail_flutter
